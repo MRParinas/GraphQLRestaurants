@@ -23,7 +23,7 @@ email
 mutation setContacts{
 setContact(input: {
 name: "john williams",
-email: "jrw@mit.edu",
+email: "mark.parinas@curaesoft.com",
 age:50
 }){
 name
