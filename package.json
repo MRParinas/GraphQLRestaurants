@@ -1,0 +1,20 @@
+{
+  "name": "graphqlrestmutation",
+  "version": "1.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "markp@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.9.0",
+    "graphql-http": "^1.22.1",
+    "node": "10.16.0",
+    "nodemon": "^3.1.4",
+    "strapi": "^3.6.11"
+  }
+}
